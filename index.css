@@ -50,7 +50,11 @@ body {
 
 #plus div {
     display: inline-block;
-    margin-left: 20px;
+    margin-left: 5px;
+}
+
+#plus img {
+    margin-right: 5px;
 }
 
 #category_contents {
